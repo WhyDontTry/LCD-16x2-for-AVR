@@ -5,7 +5,7 @@
  *  Author: Адам
  */ 
 
-#define F_CPU 8000000UL
+#define F_CPU 8000000UL // для функции задержки
 
 #include <avr/io.h>
 
